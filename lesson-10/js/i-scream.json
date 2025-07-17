@@ -1,27 +1,43 @@
 {
-    "companyName": "I-Scream Company Inc.",
-    "headOffice": "North Pole",
-    "established": 2025,
-    "active": true,
-    "topFlavors": [{
-        "name": "Chocolate Mint",
-        "calories": 240,
-        "type": "Ice Cream",
-        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
-        "image": ""
-    }, {
-        "name": "Peach Mango",
-        "calories": 260,
-        "type": "Milkshake-type ice cream",
-        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
-        "image": ""
-
-    }, {
-        "name": "Strawberry Sprinkle",
-        "calories": 280,
-        "type": "ice cream",
-        "ingredients": ["Strawberry Syrup", "Strawberry Chunks","Sprinkles", "Vanilla Base"],
-        "image": ""
-
-    }]
+  "companyName": "I-Scream Company Inc.",
+  "headOffice": "North Pole",
+  "established": 2025,
+  "active": true,
+  "topFlavors": [
+    {
+      "name": "Chocolate Mint",
+      "calories": 240,
+      "type": "Ice Cream",
+      "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+      "image": "https://shikhajaglan.github.io/COMP1073-LAB03/lesson-10/images/chocolate-mint.svg"
+    },
+    {
+      "name": "Peach Mango",
+      "calories": 260,
+      "type": "Milkshake-type Ice Cream",
+      "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+      "image": "https://shikhajaglan.github.io/COMP1073-LAB03/lesson-10/images/peach-mango.svg"
+    },
+    {
+      "name": "Strawberry Sprinkle",
+      "calories": 280,
+      "type": "Ice Cream",
+      "ingredients": ["Strawberry Syrup", "Strawberry Chunks", "Sprinkles", "Vanilla Base"],
+      "image": "https://shikhajaglan.github.io/COMP1073-LAB03/lesson-10/images/strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Blueberry Sprinkle",
+      "calories": 250,
+      "type": "Frozen Yogurt",
+      "ingredients": ["Blueberry Syrup", "Blueberry Chunks", "Blueberry Sprinkles", "Vanilla Base"],
+      "image": "https://shikhajaglan.github.io/COMP1073-LAB03/lesson-10/images/blueberry-sprinkle.svg"
+    },
+    {
+      "name": "Mango Slice",
+      "calories": 270,
+      "type": "Sorbet",
+      "ingredients": ["Mango Syrup", "Mango Chunks", "Vanilla Base"],
+      "image": "https://shikhajaglan.github.io/COMP1073-LAB03/lesson-10/images/mango-slice.svg"
+    }
+  ]
 }
